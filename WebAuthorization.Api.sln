@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAuthorization.Api", "WebAuthorization.Api\WebAuthorization.Api.csproj", "{B0B1392E-2876-4A30-9930-94113ACF39DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{E1F67C58-9F5C-499F-98C4-7CE32A0ED17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B1392E-2876-4A30-9930-94113ACF39DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B1392E-2876-4A30-9930-94113ACF39DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B1392E-2876-4A30-9930-94113ACF39DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B1392E-2876-4A30-9930-94113ACF39DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F67C58-9F5C-499F-98C4-7CE32A0ED17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F67C58-9F5C-499F-98C4-7CE32A0ED17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F67C58-9F5C-499F-98C4-7CE32A0ED17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F67C58-9F5C-499F-98C4-7CE32A0ED17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CAC538B-C012-43D2-8478-91CDB9FF8675}
+	EndGlobalSection
+EndGlobal
